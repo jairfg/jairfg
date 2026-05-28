@@ -20,14 +20,40 @@ Más de 3 años construyendo productos en producción para e-commerce, logístic
 
 ## 📌 Proyectos destacados
 
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| [shopping-list](https://github.com/jairfg/shopping-list) | Shopping List App | Ruby, Rails |
-| [Rails-API](https://github.com/jairfg/Rails-API) | API REST con testing en RSpec | Ruby, Rails |
-| [Rails-Auth](https://github.com/jairfg/Rails-Auth) | Login & Registration con ViewComponent, Devise y OmniAuth | Ruby, Rails |
-| [FlakyAPI](https://github.com/jairfg/FlakyAPI) | Photo downloader challenge | Ruby, Rails |
-| [Download-doc](https://github.com/jairfg/Download-doc) | Descarga docs de academia.edu, Issuu y Slideshare | Python |
-| [PokemonApi](https://github.com/jairfg/PokemonApi) | API RESTful con integración PokéAPI | Ruby, Rails 7, PostgreSQL |
+<table>
+  <thead>
+    <tr>
+      <th>Proyecto</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/jairfg/shopping-list" target="_blank">shopping-list</a></td>
+      <td>Shopping List App</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jairfg/Rails-API" target="_blank">Rails-API</a></td>
+      <td>API REST con testing en RSpec</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jairfg/Rails-Auth" target="_blank">Rails-Auth</a></td>
+      <td>Login & Registration con ViewComponent, Devise y OmniAuth</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jairfg/FlakyAPI" target="_blank">FlakyAPI</a></td>
+      <td>Photo downloader challenge</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jairfg/Download-doc" target="_blank">Download-doc</a></td>
+      <td>Descarga docs de academia.edu, Issuu y Slideshare</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jairfg/PokemonApi" target="_blank">PokemonApi</a></td>
+      <td>API RESTful con integración PokéAPI</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
