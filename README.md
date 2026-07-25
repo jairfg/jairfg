@@ -30,16 +30,16 @@ REST e integraciones con plataformas de e-commerce y pasarelas de pago. En el fr
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/jairfg/matrix-qr-challenge">matrix-qr-challenge</a></td>        
+      <td>API de factorización QR con Go + Fiber, Node.js + Express y Vue 3</td>                    
+    </tr>
+    <tr>
       <td><a href="https://github.com/jairfg/shopping-list" target="_blank">shopping-list</a></td>
       <td>App web para gestionar lista de compras: agrega productos y marca los que ya compraste</td>
     </tr>
     <tr>
       <td><a href="https://github.com/jairfg/Rails-API" target="_blank">Rails-API</a></td>
       <td>API REST con endpoints para posts, búsqueda, caché, ActiveJob, ActionMailer y testing con RSpec + FactoryBot</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/jairfg/Rails-Auth" target="_blank">Rails-Auth</a></td>
-      <td>Boilerplate de autenticación con Devise, Google OAuth, confirmación por email vía SendGrid y Docker</td>
     </tr>
     <tr>
       <td><a href="https://github.com/jairfg/FlakyAPI" target="_blank">FlakyAPI</a></td>
