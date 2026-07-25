@@ -1,7 +1,6 @@
 # Hola, soy Jair Flores 👋
 
-Software Engineer especializado en arquitectura backend con Node.js y Ruby on Rails: modelado de datos, APIs
-REST e integraciones con plataformas de e-commerce y pasarelas de pago. En el frontend desarrollo interfaces funcionales con React y Vue, desde el diseño de componentes hasta la integración con APIs.
+Software Engineer con enfoque en producto. Construyo aplicaciones completas de principio a fin — desde el modelado de datos y APIs REST hasta interfaces funcionales con React y Vue. Me adapto al stack que el proyecto necesite.
 
 ---
 
