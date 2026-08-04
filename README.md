@@ -43,20 +43,16 @@ Full-stack Developer enfocado en construir producto. Experiencia desarrollando p
       <td>App en Rails 7 para gestionar lista de compras agrupada por fecha. Usa ViewComponent para modularizar la UI, Turbo Streams para actualizar sin recargar la página y Stimulus para interacciones JS. Tests con RSpec y FactoryBot.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/jairfg/Rails-API" target="_blank">rails-api</a></td>
+      <td><a href="https://github.com/jairfg/rails-api" target="_blank">rails-api</a></td>
       <td>API REST en Rails con CRUD de posts, búsqueda con caché, procesamiento en background con ActiveJob y envío de reportes con ActionMailer. Tests con RSpec y FactoryBot.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/jairfg/FlakyAPI" target="_blank">FlakyAPI</a></td>
-      <td>Script que consume una API paginada e inestable, descarga fotos de casas y maneja errores con reintentos automáticos</td>
+      <td><a href="https://github.com/jairfg/download-doc" target="_blank">download-doc</a></td>
+      <td>Script en Python con Selenium y BeautifulSoup que extrae documentos de academia.edu, Issuu y Slideshare y los convierte a PDF con img2pdf.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/jairfg/Download-doc" target="_blank">Download-doc</a></td>
-      <td>Script en Python con Selenium para descargar documentos de academia.edu, Issuu y Slideshare</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/jairfg/PokemonApi" target="_blank">PokemonApi</a></td>
-      <td>API REST para gestionar colección personal de Pokémon: búsqueda con PokéAPI, favoritos, apodos, calificaciones y estadísticas</td>
+      <td><a href="https://github.com/jairfg/scraping-spotify" target="_blank">scraping-spotify</a></td>
+      <td>Script en Python que consume la API de Spotify para extraer la discografía completa de un artista — álbumes y canciones — y exporta los datos a CSV con pandas</td>
     </tr>
   </tbody>
 </table>
