@@ -40,7 +40,7 @@ Full-stack engineer enfocado en construir producto. Experiencia desarrollando pl
     </tr>
     <tr>
       <td><a href="https://github.com/jairfg/shopping-list" target="_blank">shopping-list</a></td>
-      <td>App web para gestionar lista de compras: agrega productos y marca los que ya compraste</td>
+      <td>App en Rails 7 para gestionar lista de compras agrupada por fecha. Usa ViewComponent para modularizar la UI, Turbo Streams para actualizar sin recargar la página y Stimulus para interacciones JS. Tests con RSpec y FactoryBot.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/jairfg/Rails-API" target="_blank">Rails-API</a></td>
