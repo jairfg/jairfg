@@ -1,6 +1,6 @@
  # Hola, soy Jair 👋
 
-  Full-stack Developer enfocado en construir producto. Experiencia desarrollando plataformas SaaS. Modelado de datos, APIs REST e
+  Full stack Developer enfocado en construir producto. Experiencia desarrollando plataformas SaaS. Modelado de datos, APIs REST e
   integraciones con ecommerce y pasarelas de pago. Interfaces funcionales con buena experiencia de usuario — de principio a fin. Aprendo
   rápido cualquier stack que el proyecto requiera.
 
