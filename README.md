@@ -43,8 +43,8 @@ Full-stack engineer enfocado en construir producto. Experiencia desarrollando pl
       <td>App en Rails 7 para gestionar lista de compras agrupada por fecha. Usa ViewComponent para modularizar la UI, Turbo Streams para actualizar sin recargar la página y Stimulus para interacciones JS. Tests con RSpec y FactoryBot.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/jairfg/Rails-API" target="_blank">Rails-API</a></td>
-      <td>API REST con endpoints para posts, búsqueda, caché, ActiveJob, ActionMailer y testing con RSpec + FactoryBot</td>
+      <td><a href="https://github.com/jairfg/Rails-API" target="_blank">rails-api</a></td>
+      <td>API REST en Rails con CRUD de posts, búsqueda con caché, procesamiento en background con ActiveJob y envío de reportes con ActionMailer. Tests con RSpec y FactoryBot.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/jairfg/FlakyAPI" target="_blank">FlakyAPI</a></td>
