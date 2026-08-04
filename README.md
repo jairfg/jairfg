@@ -1,6 +1,7 @@
-# Hola, soy Jair Flores 👋
+# Hola, soy Jair 👋
 
-Software Engineer con enfoque en producto. Construyo aplicaciones completas de principio a fin — desde el modelado de datos y APIs REST hasta interfaces funcionales con React y Vue. Me adapto al stack que el proyecto necesite.
+Full-stack engineer enfocado en construir producto. Experiencia desarrollando plataformas SaaS. Modelado de datos, APIs REST e integraciones con ecommerce y pasarelas de pago. Interfaces funcionales con buena experiencia de usuario — de principio a fin. Aprendo rápido cualquier stack que el proyecto requiera.
+
 
 ---
 
@@ -8,10 +9,11 @@ Software Engineer con enfoque en producto. Construyo aplicaciones completas de p
 
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
@@ -27,6 +29,11 @@ Software Engineer con enfoque en producto. Construyo aplicaciones completas de p
     </tr>
   </thead>
   <tbody>
+       <tr>
+        <td><a href="https://github.com/jairfg/saas-admin">saas-admin</a></td>
+        <td>Panel interno B2B para gestionar tenants, planes y suscripciones en una plataforma multi-tenant. NestJS ·
+  CASL (RBAC) · Prisma · Next.js 16 · JWT · emails automáticos de onboarding</td>
+      </tr>
     <tr>
       <td><a href="https://github.com/jairfg/matrix-qr-challenge">matrix-qr-challenge</a></td>        
       <td>API de factorización QR con Go + Fiber, Node.js + Express y Vue 3</td>                    
