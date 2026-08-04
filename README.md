@@ -36,7 +36,7 @@ Full-stack engineer enfocado en construir producto. Experiencia desarrollando pl
       </tr>
     <tr>
       <td><a href="https://github.com/jairfg/matrix-qr-challenge">matrix-qr-challenge</a></td>        
-      <td>API de factorización QR con Go + Fiber, Node.js + Express y Vue 3</td>                    
+      <td>Reto técnico con dos APIs que se comunican entre sí: Go + Fiber realiza la factorización QR y le pasa los resultados a Node.js + Express para calcular estadísticas. Frontend en Vue 3. Orquestado con Docker Compose.   </td>                    
     </tr>
     <tr>
       <td><a href="https://github.com/jairfg/shopping-list" target="_blank">shopping-list</a></td>
