@@ -31,7 +31,7 @@
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://github.com/micaela-app">Micaela</a> <em>(privado)</em></td>
+        <td><a href="https://github.com/micaela-app">Lebenix</a> <em>(privado)</em></td>
         <td>SaaS B2B para centros de nutrición en LATAM. Gestión de pacientes, citas, mediciones clínicas y planes alimenticios. Multi-tenant por subdominio · Rails 8 · React 19 · TypeScript ·              TanStack Query · Tailwind CSS v4 · Sidekiq · Google Calendar · S3</td>
       </tr>
     </tbody>
