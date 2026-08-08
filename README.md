@@ -31,18 +31,17 @@
     </thead>
     <tbody>
      <tr>                                                                                                                                             
-    <td>                                                                                                                                           
-      <a href="https://app.lebenix.com"><strong>Lebenix</strong></a><br>                                                                           
-      <small>app.lebenix.com</small>
-    </td>                                                                                                                                          
-    <td>          
-      SaaS B2B para centros de nutrición en LATAM. Gestión de pacientes, citas, mediciones clínicas y planes alimenticios con multi-tenancy por
-  subdominio.<br><br>
-      <strong>Backend:</strong> Rails 8 · PostgreSQL · Sidekiq · Redis · JWT HttpOnly · Multi-tenant · RBAC · Google Calendar API · SendGrid ·
-  S3<br>
-      <strong>Frontend:</strong> React 19 · TypeScript · Vite · TanStack Query · Tailwind CSS v4<br>
-      <strong>Infra:</strong> EC2 · RDS · S3 · CloudFront · Route 53 · Docker · Kamal
-    </td>
+   <td>
+  <a href="https://www.lebenix.com"><strong>Lebenix</strong></a><br>
+  <small>lebenix.com</small>
+</td>
+<td>
+  SaaS B2B para nutricionistas en LATAM. Agenda de citas, historial clínico, mediciones y planes alimenticios desde una sola plataforma.<br><br>
+  <strong>Backend:</strong> Rails 8 · PostgreSQL · Sidekiq · Redis · JWT HttpOnly · Multi-tenant · RBAC · Google Calendar API · SendGrid · S3<br>
+  <strong>Frontend:</strong> React 19 · TypeScript · Vite · TanStack Query · Tailwind CSS v4<br>
+  <strong>Landing:</strong> Next.js 16 · MDX · Tailwind CSS v4<br>
+  <strong>Infra:</strong> EC2 · RDS · S3 · CloudFront · Route 53 · Docker · Kamal · Vercel
+</td>
   </tr>
     </tbody>
   </table>
