@@ -72,19 +72,9 @@
    actualizar sin recargar la página y Stimulus para interacciones JS. Tests con RSpec y FactoryBot.</td>
       </tr>
       <tr>
-        <td><a href="https://github.com/jairfg/rails-api">rails-api</a></td>
-        <td>API REST en Rails con CRUD de posts, búsqueda con caché, procesamiento en background con ActiveJob y envío de reportes con
-  ActionMailer. Tests con RSpec y FactoryBot.</td>
-      </tr>
-      <tr>
         <td><a href="https://github.com/jairfg/download-doc">download-doc</a></td>
         <td>Script en Python con Selenium y BeautifulSoup que extrae documentos de academia.edu, Issuu y Slideshare y los convierte a PDF
   con img2pdf.</td>
-      </tr>
-      <tr>
-        <td><a href="https://github.com/jairfg/scraping-spotify">scraping-spotify</a></td>
-        <td>Script en Python que consume la API de Spotify para extraer la discografía completa de un artista — álbumes y canciones — y
-  exporta los datos a CSV con pandas.</td>
       </tr>
     </tbody>
   </table>
