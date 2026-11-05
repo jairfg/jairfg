@@ -1,6 +1,6 @@
  # Hola, soy Jair 👋
 
-  Software Engineer enfocado en construir producto. Experiencia desarrollando plataformas SaaS. Aprendo
+  Software Engineer AI enfocado en construir producto. Experiencia desarrollando plataformas SaaS. Aprendo
   rápido cualquier stack que el proyecto requiera.
 
   ---
