@@ -1,7 +1,6 @@
  # Hola, soy Jair 👋
 
-  Software Engineer enfocado en construir producto. Experiencia desarrollando plataformas SaaS. Modelado de datos, APIs REST e
-  integraciones con ecommerce y pasarelas de pago. Interfaces funcionales con buena experiencia de usuario — de principio a fin. Aprendo
+  Software Engineer enfocado en construir producto. Experiencia desarrollando plataformas SaaS. Aprendo
   rápido cualquier stack que el proyecto requiera.
 
   ---
@@ -35,7 +34,7 @@
   <small>nutricenterapp.com</small>
 </td>
 <td>
-  SaaS B2B para nutricionistas
+  SaaS B2B para nutricionistas<br>
   <strong>Backend:</strong> Rails 8 · PostgreSQL · Sidekiq · Redis · JWT HttpOnly · Multi-tenant · RBAC · Google Calendar API · SendGrid · S3<br>
   <strong>Frontend:</strong> React 19 · TypeScript · Vite · TanStack Query · Tailwind CSS v4<br>
   <strong>Landing:</strong> Next.js 16 · MDX · Tailwind CSS v4<br>
